@@ -1,0 +1,23 @@
+{
+  "name": "sol-repo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kunduy/sol-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kunduy/sol-repo/issues"
+  },
+  "homepage": "https://github.com/kunduy/sol-repo#readme",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "@solana/web3.js": "^1.66.2"
+  }
+}
